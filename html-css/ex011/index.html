@@ -17,10 +17,13 @@
 
     <h2>Reproduzindo Áudio</h2>
     <p>Vamos aprender a reproduzir áudios em HTML5</p>
-    <audio src="midia/Confident Kurt - TrackTribe.mp3" controls autoplay></audio>
+    <audio src="midia/Confident Kurt - TrackTribe.mp3" autoplay preload="metadata" controls></audio>
     <!-- MP3 - WAV - OGG -->
     <audio>
         <source src="midia/Confident Kurt - TrackTribe.mp3" type="audio/mpeg">
+        <source src="midia/Confident Kurt - TrackTribe.ogg" type="audio/ogg">
+        <source src="midia/Confident Kurt - TrackTribe.wav" type="audio/wav">
+        <p>Infelizmente o seu navegador não consegue reproduzir esse áudio. <a href="midia/Confident Kurt - TrackTribe.mp3"> clique aqui para baixar o arquivo MP3.</a></p>
     </audio>
 </body>
 </html>
