@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgb(185, 164, 164) ;
+    background-image: linear-gradient(to right,#656e65,#9DBF9E, #9DBF9E,#656e65);
 }
 h1{
     text-align: center;
