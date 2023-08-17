@@ -4,10 +4,15 @@ Sites para ícones{
 
 Sites para desing de cores{
 	Coolors
-	Adobe Colors}
+	Adobe Colors
+	Paletton
+	ColorZilla (Exttensão)}
 
 Sites para selecionar fontes{
 	Google Fonts
 	DaFont
-	Fonts Ninja (Extensão)}
+	Fonts Ninja (Extensão)
+	My Font Squirrel
+	What Font Is
+	My Fonts}
 	
